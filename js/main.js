@@ -12,7 +12,7 @@ function tfAuslesen () {
     anzahlNoten = 0;
     ergebnis = 0;
 
-    n1 = parseInt(document.getElementById("tfNote1").value);
+    n1 = parseInt(document.getElementById("tfNote1").value); //Auslesen eines Notenfeldes und konventierung in Integer
     n2 = parseInt(document.getElementById("tfNote2").value);
     n3 = parseInt(document.getElementById("tfNote3").value);
     n4 = parseInt(document.getElementById("tfNote4").value);
