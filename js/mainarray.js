@@ -1,3 +1,5 @@
+let eingabeFelder = ['tfNote1','tfNote2','tfNote3','tfNote4','tfNote5',]
+
 let n1;
 let n2;
 let n3;
