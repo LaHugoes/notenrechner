@@ -7,6 +7,8 @@ let summe = 0;
 let anzahlNoten = 0;
 let ergebnis;
 
+//ließt textfelder aus und brechnet den durchschnitt nach eingabenüberprüfung
+
 function tfAuslesen () {
     summe = 0;
     anzahlNoten = 0;
